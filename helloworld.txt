@@ -1,2 +1,2 @@
 Hello, world!
-mudança do arquivo
+Oi, turma! O que vocês estão achando o git?
